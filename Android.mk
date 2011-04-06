@@ -32,7 +32,7 @@ LOCAL_SRC_FILES:= \
        Embedded/common/src/b_BasicEm/Int16Arr.c \
        Embedded/common/src/b_BasicEm/Int32Arr.c \
        Embedded/common/src/b_BasicEm/Int8Arr.c \
-       Embedded/common/src/b_BasicEm/Math.c.arm \
+       Embedded/common/src/b_BasicEm/Math.c.arch \
        Embedded/common/src/b_BasicEm/MemSeg.c \
        Embedded/common/src/b_BasicEm/MemTbl.c \
        Embedded/common/src/b_BasicEm/Memory.c \
